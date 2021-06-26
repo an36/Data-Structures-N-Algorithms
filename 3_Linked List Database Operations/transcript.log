@@ -1,0 +1,106 @@
+Enter the name of the file:readTeamInfo: Reading team info file...
+// MLS Soccer team info
+// Format:
+// Team_name" Nickname" league conference #wins-#losses-#ties
+//
+// Team name:	String (char[30]) containing the name of the team - '_' for spaces
+// Nickname: 	String (char[5]) containing the nick name of the team
+// League:		int containing 1 for MSL, 2 for NWSL, 3 for USL, 0 for other
+// Conference:	int containing 1 for Eastern, 2 for Western, 3 for NWSL, 0 for other
+// #wins:		int containing the number of games won during the regular season
+// #losses:		int containing the number of games lost during the regular season
+// #draws:		int containing the number of games drawn (ties) during the regular season
+readTeamInfo: Added record 0
+readTeamInfo: Added record 1
+readTeamInfo: Added record 2
+readTeamInfo: Added record 3
+readTeamInfo: Added record 4
+readTeamInfo: Added record 5
+readTeamInfo: Added record 6
+readTeamInfo: Added record 7
+readTeamInfo: Added record 8
+readTeamInfo: Added record 9
+readTeamInfo: Added record 10
+readTeamInfo: Added record 11
+readTeamInfo: Added record 12
+readTeamInfo: Added record 13
+readTeamInfo: Added record 14
+readTeamInfo: Added record 15
+readTeamInfo: Added record 16
+readTeamInfo: Added record 17
+readTeamInfo: Added record 18
+readTeamInfo: Added record 19
+readTeamInfo: Added record 20
+readTeamInfo: Added record 21
+readTeamInfo: Added record 22
+readTeamInfo: Added record 23
+
+MLS (Eastern Conference):
+   New York City FC
+   Atlanta United FC
+   Philadelphia Union
+   Toronto FC
+   D. C. United
+   New York Red Bulls
+   New England Revolution
+   Chicago Fire
+   Montreal Impact
+   Columbus Crew SC
+   Orlando City FC
+   FC Cincinnati
+
+MLS (Western Conference):
+   Los Angeles Football Club
+   Seattle Sounders
+   Real Salt Lake
+   Minnesota United FC
+   LA Galaxy
+   Portland Timbers
+   FC Dallas
+   San Jose Earthquakes
+   Colorado Rapids
+   Houston Dynamo
+   Sporting Kansas City
+   Vancouver Whitecaps FC
+
+Five teams with the best winning percentage:
+
+ 1:
+  Team : Los Angeles Football Club (LAFC)
+  League: MLS (WESTERN)
+  Record: 21-4-9
+  Percentage: 61.8%
+
+ 2:
+  Team : Atlanta United FC (ATL)
+  League: MLS (EASTERN)
+  Record: 18-12-4
+  Percentage: 52.9%
+
+ 3:
+  Team : New York City FC (NYC)
+  League: MLS (EASTERN)
+  Record: 18-6-10
+  Percentage: 52.9%
+
+ 4:
+  Team : Real Salt Lake (RSL)
+  League: MLS (WESTERN)
+  Record: 16-13-5
+  Percentage: 47.1%
+
+ 5:
+  Team : Seattle Sounders (SEA)
+  League: MLS (WESTERN)
+  Record: 16-10-8
+  Percentage: 47.1%
+
+The team with most wins:
+  Team : Los Angeles Football Club (LAFC)
+  League: MLS (WESTERN)
+  Record: 21-4-9
+
+The team with most losses:
+  Team : FC Cincinnati (CIN)
+  League: MLS (EASTERN)
+  Record: 6-22-6

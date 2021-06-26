@@ -1,0 +1,237 @@
+     +--------------------------------------------------------------------+
+     ¦                • MobaXterm Personal Edition v12.2 •                ¦
+     ¦              (X server, SSH client and network tools)              ¦
+     ¦                                                                    ¦
+     ¦ ? Your computer drives are accessible through the /drives path     ¦
+     ¦ ? Your DISPLAY is set to 10.0.0.23:0.0                             ¦
+     ¦ ? When using SSH, your remote DISPLAY is automatically forwarded   ¦
+     ¦ ? Each command status is specified by a special symbol (? or ?)    ¦
+     ¦                                                                    ¦
+     ¦ • Important:                                                       ¦
+     ¦ This is MobaXterm Personal Edition. The Professional edition       ¦
+     ¦ allows you to customize MobaXterm for your company: you can add    ¦
+     ¦ your own logo, your parameters, your welcome message and generate  ¦
+     ¦ either an MSI installation package or a portable executable.       ¦
+     ¦ We can also modify MobaXterm or develop the plugins you need.      ¦
+     ¦ For more information: https://mobaxterm.mobatek.net/download.html  ¦
+     +--------------------------------------------------------------------+
+
+ ? 26/10/2019 ? ? 21:09.57 ? ? /home/mobaxterm ? cd desktop
+                                                                                                                                        ?
+
+ ? 26/10/2019 ? ? 21:10.02 ? ? /home/mobaxterm/desktop ? cd ece361f19_hw2-an36
+                                                                                                                                        ?
+
+ ? 26/10/2019 ? ? 21:10.23 ? ? /home/mobaxterm/desktop/ece361f19_hw2-an36 ? ? master ? touch SinglyLinkedList.c
+                                                                                                                                        ?
+
+ ? 26/10/2019 ? ? 21:10.50 ? ? /home/mobaxterm/desktop/ece361f19_hw2-an36 ? ? master ? git add SinglyLinkedList.c
+                                                                                                                                        ?
+
+ ? 26/10/2019 ? ? 21:11.34 ? ? /home/mobaxterm/desktop/ece361f19_hw2-an36 ? ? master ? git commit -m'SinglyLinkedList. rewritten'
+[master 810b57a] SinglyLinkedList. rewritten
+ 1 file changed, 280 insertions(+)
+ create mode 100644 SinglyLinkedList.c
+                                                                                                                                        ?
+
+ ? 26/10/2019 ? ? 21:11.58 ? ? /home/mobaxterm/desktop/ece361f19_hw2-an36 ? ? master ? gcc -o SinglyLinkedList SinglyLinkedList.c
+
+ ? 26/10/2019 ? ? 21:15.18 ? ? /home/mobaxterm/desktop/ece361f19_hw2-an36 ? ? master ? ./SinglyLinkedList.exe
+
+Number of lists created is: 0
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 1
+
+How many Singly Linked Lists do you want to create [1 to 10]? 3
+
+You have created 3 linked lists
+
+Which list do you want to fill with data? 1
+
+How many nodes do you want within the list? 3
+
+Enter the data for node #1: 3
+Enter the data for node #2: 6
+Enter the data for node #3: 9
+
+Data: 3 6 9
+
+Do you want to fill/refill a list again (y or n)?y
+
+
+Which list do you want to fill with data? 2
+
+How many nodes do you want within the list? 2
+
+Enter the data for node #1: 15
+Enter the data for node #2: 16
+
+Data: 15 16
+
+Do you want to fill/refill a list again (y or n)?y
+
+
+Which list do you want to fill with data? 3
+
+How many nodes do you want within the list? 4
+
+Enter the data for node #1: 40
+Enter the data for node #2: 50
+Enter the data for node #3: 60
+Enter the data for node #4: 70
+
+Data: 40 50 60 70
+
+Do you want to fill/refill a list again (y or n)?n
+
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 6
+
+Which list do you want to print the content of? 2
+
+Data: 15 16
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 6
+
+Which list do you want to print the content of? 3
+
+Data: 40 50 60 70
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 2
+
+Which list do you want to fill with data? 1
+
+How many nodes do you want within the list? 5
+
+Enter the data for node #1: 5
+Enter the data for node #2: 4
+Enter the data for node #3: 3
+Enter the data for node #4: 2
+Enter the data for node #5: 1
+
+Data: 5 4 3 2 1
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 3
+
+Which list do you want find the size of? 1
+
+The size of the list is 5 node/s
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 3
+
+Which list do you want find the size of? 2
+
+The size of the list is 2 node/s
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 3
+
+Which list do you want find the size of? 3
+
+The size of the list is 4 node/s
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 4
+
+Which list do you want to insert a node to? 4
+There are only 3 lists
+
+Which list do you want to insert a node to? 2
+
+At what position do you want to insert the node? 4
+This list has 2 node/s only
+
+At what position do you want to insert the node? 2
+
+What's the data that you want to insert? 36
+
+Data: 15 36 16
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 5
+
+Which list do you to delete a node from? 2
+
+Which node do you want to delete? 2
+
+Data: 15 16
+
+Number of lists created is: 3
+Enter [1] to create new Singly Linked Lists
+Enter [2] to fill/refill a Singly Linked List
+Enter [3] to check the size of a Singly Linked List
+Enter [4] to insert data in a node within a Singly Linked List
+Enter [5] to delete a node within a Singly Linked List
+Enter [6] to print the data within a Singly Linked List
+Enter [0] to quit
+Enter here: 0
+                                                                                                                                        ?
+
+ ? 26/10/2019 ? ? 21:20.21 ? ? /home/mobaxterm/desktop/ece361f19_hw2-an36 ? ? master ?

@@ -1,0 +1,219 @@
+ ? 23/11/2019 ? ? 23:53.22 ? ? /home/mobaxterm/desktop/ece361f19_hw4-an36 ? ? master ? ./main.exe
+readTeamInfo: Reading team info file...
+// 2019 MLS Soccer team standings
+// Format:
+// Team_name" Nickname" league conference #wins-#losses-#ties
+//
+// Team name:   String (char[30]) containing the name of the team - '_' for spaces
+// Nickname:    String (char[5]) containing the nick name of the team
+// League:              int containing 1 for MSL, 2 for NWSL, 3 for USL, 0 for other
+// Conference:  int containing 1 for Eastern, 2 for Western, 3 for NWSL, 0 for other
+// #wins:               int containing the number of games won during the regular season
+// #losses:             int containing the number of games lost during the regular season
+// #draws:              int containing the number of games drawn (ties) during the regular season
+readTeamInfo: Error parsing team info record: #fields read = 0  line=
+name=   nickname=       league= 0       conference= 0   wins-losses-ties= 0-28-2673124
+readTeamInfo: Added record 1
+readTeamInfo: Added record 2
+readTeamInfo: Added record 3
+readTeamInfo: Added record 4
+readTeamInfo: Added record 5
+readTeamInfo: Added record 6
+readTeamInfo: Added record 7
+readTeamInfo: Added record 8
+readTeamInfo: Added record 9
+readTeamInfo: Added record 10
+readTeamInfo: Added record 11
+readTeamInfo: Added record 12
+readTeamInfo: Added record 13
+readTeamInfo: Added record 14
+readTeamInfo: Added record 15
+readTeamInfo: Added record 16
+readTeamInfo: Added record 17
+readTeamInfo: Added record 18
+readTeamInfo: Added record 19
+readTeamInfo: Added record 20
+readTeamInfo: Added record 21
+readTeamInfo: Added record 22
+readTeamInfo: Added record 23
+readTeamInfo: Added record 24
+readTeamInfo: Added record 25
+readTeamInfo: Added record 26
+readTeamInfo: Added record 27
+readTeamInfo: Added record 28
+readTeamInfo: Added record 29
+readTeamInfo: Added record 30
+readTeamInfo: Added record 31
+readTeamInfo: Added record 32
+readTeamInfo: Added record 33
+readTeamInfo: Added record 34
+readTeamInfo: Added record 35
+readTeamInfo: Added record 36
+readTeamInfo: Added record 37
+readTeamInfo: Added record 38
+readTeamInfo: Added record 39
+readTeamInfo: Added record 40
+readTeamInfo: Added record 41
+readTeamInfo: Added record 42
+readTeamInfo: Added record 43
+readTeamInfo: Added record 44
+readTeamInfo: Added record 45
+readTeamInfo: Added record 46
+readTeamInfo: Added record 47
+readTeamInfo: Added record 48
+readTeamInfo: Added record 49
+readTeamInfo: Added record 50
+readTeamInfo: Added record 51
+readTeamInfo: Added record 52
+readTeamInfo: Added record 53
+readTeamInfo: Added record 54
+readTeamInfo: Added record 55
+readTeamInfo: Added record 56
+readTeamInfo: Added record 57
+readTeamInfo: Added record 58
+        hash_table: Inserted hash table[14], k:v = NYC:0x203d0610
+        hash_table: Inserted hash table[15], k:v = ATL:0x203d0650
+        hash_table: Inserted hash table[45], k:v = PHI:0x203d0690
+        hash_table: Inserted hash table[05], k:v = TOR:0x203d06d0
+        hash_table: Inserted hash table[50], k:v = DC:0x203d0710
+        hash_table: Inserted hash table[00], k:v = RBNY:0x203d0750
+        hash_table: Inserted hash table[32], k:v = NE:0x203d0790
+        hash_table: Inserted hash table[27], k:v = CHI:0x203d07d0
+        hash_table: Inserted hash table[12], k:v = MTL:0x203d0810
+        hash_table: Inserted hash table[29], k:v = CLB:0x203d0850
+        hash_table: Inserted hash table[07], k:v = ORL:0x203d0890
+        hash_table: Inserted hash table[13], k:v = CIN:0x203d0910
+        hash_table: Inserted hash table[66], k:v = LA:0x203d0950
+        hash_table: Inserted hash table[72], k:v = SEA:0x203d0990
+        hash_table: Inserted hash table[51], k:v = RSL:0x203d09d0
+        hash_table: Inserted hash table[53], k:v = MIN:0x203d0a10
+        hash_table: Inserted hash table[06], k:v = POR:0x203d0a90
+        hash_table: Inserted hash table[73], k:v = DAL:0x203d0ad0
+        hash_table: Inserted hash table[56], k:v = SJ:0x203d0b10
+        hash_table: Inserted hash table[67], k:v = COL:0x203d0b50
+        hash_table: Inserted hash table[11], k:v = HOU:0x203d0b90
+        hash_table: Inserted hash table[70], k:v = SKC:0x203d0bd0
+        hash_table: Inserted hash table[54], k:v = VAN:0x203d0c10
+        hash_table: Inserted hash table[30], k:v = NC:0x203d0c90
+        hash_table: Inserted hash table[27], k:v = CHI:0x203d0cd0
+        hash_table: Inserted hash table[06], k:v = POR:0x203d0d10
+        hash_table: Inserted hash table[01], k:v = TAC:0x203d0d50
+        hash_table: Inserted hash table[50], k:v = DC:0x203d0d90
+        hash_table: Inserted hash table[03], k:v = UTE:0x203d0dd0
+        hash_table: Inserted hash table[11], k:v = HOU:0x203d0e10
+        hash_table: Inserted hash table[37], k:v = NJ:0x203d0e50
+        hash_table: Inserted hash table[07], k:v = ORL:0x203d0e90
+        hash_table: Inserted hash table[60], k:v = PHX:0x203d0f10
+        hash_table: Inserted hash table[73], k:v = NEV:0x203d0f50
+        hash_table: Inserted hash table[66], k:v = FRE:0x203d0f90
+        hash_table: Inserted hash table[26], k:v = SLC:0x203d0fd0
+        hash_table: Inserted hash table[81], k:v = ORA:0x203d1010
+        hash_table: Inserted hash table[00], k:v = ELP:0x203d1050
+        hash_table: Inserted hash table[65], k:v = SAC:0x203d1090
+        hash_table: Inserted hash table[03], k:v = AUS:0x203d10d0
+        hash_table: Inserted hash table[07], k:v = LAG:0x203d1110
+        hash_table: Inserted hash table[40], k:v = NM:0x203d1150
+        hash_table: Inserted hash table[82], k:v = SAT:0x203d1190
+        hash_table: Inserted hash table[74], k:v = RIO:0x203d11d0
+        hash_table: Inserted hash table[19], k:v = LAS:0x203d1210
+        hash_table: Inserted hash table[06], k:v = POR:0x203d1250
+        hash_table: Inserted hash table[46], k:v = OKC:0x203d1290
+        hash_table: Inserted hash table[55], k:v = TUL:0x203d12d0
+        hash_table: Inserted hash table[01], k:v = TAC:0x203d1310
+        hash_table: Inserted hash table[67], k:v = COL:0x203d1350
+
+Enter the name of the league (CAPS ONLY): MLS
+
+Please enter the nickname of the team (CAPS ONLY): SEA
+
+        hash_table: Searching for key: SEA, bucket: 72
+
+  Team : Seattle Sounders (SEA)
+  League: MLS
+  Conference: WESTERN
+  Record: wins=16  losses=10  draws=8
+
+Enter the name of the league (CAPS ONLY): NWSL
+
+Please enter the nickname of the team (CAPS ONLY): POR
+
+        hash_table: Searching for key: POR, bucket: 6
+
+  Team : Portland Thorns (POR)
+  League: NWSL
+  Conference: NWSL
+  Record: wins=11  losses=6  draws=7
+
+Enter the name of the league (CAPS ONLY): USL
+
+Please enter the nickname of the team (CAPS ONLY): ORA
+
+        hash_table: Searching for key: ORA, bucket: 81
+
+  Team : Orange County FC (ORA)
+  League: USL
+  Conference: OTHER
+  Record: wins=15  losses=10  draws=9
+
+Enter the name of the league (CAPS ONLY): nnkd
+
+Error: There is no league with that name
+Please enter the name of the league again: MLS
+
+Please enter the nickname of the team (CAPS ONLY): OPP
+
+        hash_table: Searching for key: OPP, bucket: 49
+
+There is no team with that nickname in this league
+Please enter the team's nickname again: POR
+
+        hash_table: Searching for key: POR, bucket: 6
+
+  Team : Portland Timbers (POR)
+  League: MLS
+  Conference: WESTERN
+  Record: wins=14  losses=13  draws=7
+
+Enter the name of the league (CAPS ONLY): MLS
+
+Please enter the nickname of the team (CAPS ONLY): CHI
+
+        hash_table: Searching for key: CHI, bucket: 27
+
+  Team : Chicago Fire (CHI)
+  League: MLS
+  Conference: EASTERN
+  Record: wins=10  losses=12  draws=12
+
+Enter the name of the league (CAPS ONLY): dsa
+
+Error: There is no league with that name
+Please enter the name of the league again: DSA
+
+Error: There is no league with that name
+Please enter the name of the league again: NWSL
+
+Please enter the nickname of the team (CAPS ONLY): UTE
+
+        hash_table: Searching for key: UTE, bucket: 3
+
+  Team : Utah Royals FC (UTE)
+  League: NWSL
+  Conference: NWSL
+  Record: wins=10  losses=10  draws=4
+
+Enter the name of the league (CAPS ONLY): USL
+
+Please enter the nickname of the team (CAPS ONLY): LAG
+
+        hash_table: Searching for key: LAG, bucket: 7
+
+  Team : LA Galaxy II (LAG)
+  League: USL
+  Conference: OTHER
+  Record: wins=12  losses=10  draws=12
+
+Enter the name of the league (CAPS ONLY):
+                                                                                                                                        ?
+
+ ? 23/11/2019 ? ? 23:57.20 ? ? /home/mobaxterm/desktop/ece361f19_hw4-an36 ? ? master ?
