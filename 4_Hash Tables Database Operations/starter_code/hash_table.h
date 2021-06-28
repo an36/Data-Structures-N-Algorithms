@@ -7,12 +7,9 @@
  * This is the header file for constants, variables, and function prototypes
  * for functionality in the Hash table ADT    
  *
- * This file, and its associated source code file (including the functions that you
- * need to provide) are generated from the code provided by James Routley in his excellent
+ * This file, and its associated source code file are generated from the code provided by James Routley in his excellent
  * tutorial on Hash tables and hashing (https://github.com/jamesroutley/write-a-hash-table).
  *
- * NOTE:  The Hash table ADT is a clone of James Routhly's code except I refactored it
- * for ECE 361 HW #4 and the teamInfo struct used for the MLS app in HW #3
  *
  * CAVEAT:  I did not implement Routhley's algorithms and code for resizing the Hash table.
  * Instead I made the hash table (hopefully)large enough to hold all of the teams in the team info

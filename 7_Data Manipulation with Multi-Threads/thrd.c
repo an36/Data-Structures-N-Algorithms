@@ -1,5 +1,6 @@
 /*
-*   ECE362 | H.W.5 | Problem.1) Creating 4 threads.
+*   Creating 4 threads.
+*   
 *   Author: Abdullah Almarzouq      (an36@pdx.edu)
 *
 *   Description:  The program below creates four threads and each threads created

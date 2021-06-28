@@ -1,5 +1,6 @@
 
-	ECE362 | H.W.5 | Problem.1) Creating 4 threads.
+	Creating 4 threads.
+	
 	Author: Abdullah Almarzouq      (an36@pdx.edu)
    
 	Name: thread.exe or thread.out

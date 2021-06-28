@@ -5,7 +5,7 @@
 #include "DynamicStack.h"
 
 /*  Abdullah Almarzouq
-    ECE361 HW2 Problem 3
+    
     The DynamicStack.h header file includes the stack struct and functions that would create a stack, push to a stack, pop from stack and so on.
     The program below, within main(), lets the user to evaluate expression using RPN calculations.
     It asks the user to enter the expression (numbers followed by operators) then evaluate that expression accordingly.

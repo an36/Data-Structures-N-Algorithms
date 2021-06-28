@@ -4,7 +4,7 @@
 #define MAX_LEN 10
 
 /*  Abdullah Almarzouq
-    ECE361 HW2 Problem 2 (Rewriting SinglyLinkedList.c)
+    
     The functions below can create up to 10 singly linked lists and the main() functionality allows the user
     to manipulate each linked list by choice.  The user can fill/refill each list with the desired number of nodes.
     The user can also insert a node, delete a node, print the data within a list and print the size of a list.

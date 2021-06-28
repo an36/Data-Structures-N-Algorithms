@@ -4,14 +4,11 @@
  * Originator: Roy Kravitz (roy.kravitz@pdx.edu)
  * Author:  Abdullah Almarzouq (an36@pdx.edu)
  *
- * This is the source code file that for functionality specific to the Team Info database that
- * is part of an ECE 361 homework assignment.
+ * This is the source code file that for functionality specific to the Team Info database.
  *
- * This file, and its associated header file (including the functions that you
- * need to provide) are meant to be used by your Linked List ADT and main() to deliver
+ * This file, and its associated header file are meant to be used by your Linked List ADT and main() to deliver
  * the functionality required in the assignment
  *
- * @note:  You need to provide the code for several of these functions
  */
 
 // include files

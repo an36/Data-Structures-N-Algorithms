@@ -1,4 +1,4 @@
-	ECE362 Assignment #2	(three programs: twist, xor and tx)
+	three programs: twist.c, xor.c and tx.c
       	Author: Abdullah Almarzouq     (an36@pdx.edu)
 
 

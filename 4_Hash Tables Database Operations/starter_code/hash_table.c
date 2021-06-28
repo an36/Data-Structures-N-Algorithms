@@ -6,14 +6,11 @@
  * Last Modified by Roy Kravitz (23-Nov-2019)
  * 
  * This is the source code file for a Hash table ADT that should work for the
- * team info records that were part of ECE 361 HW #3. 
+ * team info records under "3_Linked List Database". 
  *
- * This file, and its associated source code file (including the functions that you
- * need to provide) are generated from the code provided by James Routley in his excellent
+ * This file, and its associated source code file are generated from the code provided by James Routley in his excellent
  * tutorial on Hash tables and hashing (https://github.com/jamesroutley/write-a-hash-table).
  *
- * NOTE:  The Hash table ADT is a clone of James Routley's code except I refactored it
- * for ECE 361 HW #4.
  *
  * CAVEAT:  I did not implement Routley's algorithms and code for resizing the Hash table.
  * Instead I made the hash table (hopefully)large enough to hold all of the teams in the team info

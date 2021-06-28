@@ -5,11 +5,9 @@
  * Author:  Abdullah Almarzouq (an36@pdx.edu)
  *
  * This is the header file for constants, variables, and function prototypes
- * for functionality specific to the Team Info database that
- * is part of ECE 361 homework #3.
+ * for functionality specific to the Team Info database.
  *
- * This file, and its associated source code file (including the functions that you
- * need to provide) are meant to be used by your Linked List ADT and main() to deliver
+ * This file, and its associated source code file are meant to be used by your Linked List ADT and main() to deliver
  * the functionality required in the assignment
  */
 

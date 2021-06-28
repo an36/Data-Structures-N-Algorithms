@@ -4,9 +4,8 @@
  * Originator:  Roy Kravitz (roy.kravitz@pdx.edu)
  * Author:  Abdullah Almarzouq (an36@pdx.edu)
  * 
- * This is the header file for a Linked list for the MLS app that
- * is part of  ECE 361 homework #3.  It is a modified
- * version of the Linked List ADT that I discussed in my solution to HW #2.  
+ * This is the header file for a Linked list for the MLS app. It is a modified
+ * version of the Linked List ADT under "1_Singly Linked List" folder.  
  *
  * The only notable change is that the data field in the list is no
  * longer an int.  Instead it is a structure containing information about

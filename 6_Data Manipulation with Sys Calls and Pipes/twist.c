@@ -1,5 +1,6 @@
 /*
- *      ECE 362 | H.W.2 Part A | (twist)
+ *      twist.c 
+ *
  *      Author: Abdullah Almarzouq     (an36@pdx.edu)
  *
  *      Description: The program below takes an input from an input file (or stdin)

@@ -1,5 +1,6 @@
 /*
- *      ECE 362 | H.W.2 Part C | (tx)
+ *      tx.c
+ *
  *      Author: Abdullah Almarzouq     (an36@pdx.edu)
  *
  *      Description: The program below creates two process (parent and child) by using fork().

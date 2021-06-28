@@ -1,5 +1,5 @@
 /*
- *      ECE 362 | HW1 | MultiQueue Generator (mqg)
+ *      MultiQueue Generator (mqg)
  *      Author: Abdullah Almarzouq      (an36@pdx.edu)
  *
  *      Description: The program below generates a specified number of queues and

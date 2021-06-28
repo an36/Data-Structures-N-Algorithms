@@ -1,5 +1,6 @@
 /*
-*   ECE362 | H.W.5 | Problem.2) Multi-threading.
+*   Multi-threading.
+*   
 *   Author: Abdullah Almarzouq      (an36@pdx.edu)
 *
 *   Description:  The program below creates a number of threads, specified by user,
